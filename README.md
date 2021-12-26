@@ -3,10 +3,12 @@
 
 ###  - 🎓I am a Computer Engineering student at Manisa Celal Bayar University.
 ###  - 🌟  I’m currently learning FrontEnd-Development
-###  - 😃 All of my projects are available at [all repository.](https://github.com/beyzahsen?tab=repositories)
+###  - 😊 All of my projects are available at [all repository.](https://github.com/beyzahsen?tab=repositories)
 ###  - ✉️ How to reach me: beyzaahsenata@gmail.com
 ###  - 🔗 My LinkedIn account [LinkedIn](https://www.linkedin.com/in/beyza-ahsen-ata-9019b3207/)
- # 🔨 Technologies & Tools
+<br>
+
+ # <img src="https://c.tenor.com/hTEZeqwOPWgAAAAM/crumb-cat.gif" style="width:30px;height:30px; "></img> Technologies & Tools
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
