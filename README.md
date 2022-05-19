@@ -8,7 +8,7 @@
 ###  - 🔗 My LinkedIn account [LinkedIn](https://www.linkedin.com/in/beyza-ahsen-ata-9019b3207/)
 <br>
 
- # <img src="https://c.tenor.com/hTEZeqwOPWgAAAAM/crumb-cat.gif" style="width:30px;height:30px; "></img> Technologies & Tools
+ Technologies & Tools
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img>
