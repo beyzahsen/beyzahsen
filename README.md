@@ -2,7 +2,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></img>
 
 ###  - 🎓I am a Computer Engineering student at Manisa Celal Bayar University.
-###  - 🌟  I’m currently learning FrontEnd-Development
 ###  - 😊 All of my projects are available at [all repository.](https://github.com/beyzahsen?tab=repositories)
 ###  - ✉️ How to reach me: beyzaahsenata@gmail.com
 ###  - 🔗 My LinkedIn account [LinkedIn](https://www.linkedin.com/in/beyza-ahsen-ata-9019b3207/)
