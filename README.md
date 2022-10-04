@@ -26,5 +26,5 @@
 <img src="https://img.shields.io/badge/Visual Studio-239120?style=for-the-badge&logo=visualstudio&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Apache Netbeans IDE-6DB33F?style=for-the-badge&logo=apachenetbeanside&logoColor=white"></img>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzahsen&langs_count=9&theme=tokyonight)]()
+<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzahsen&langs_count=9&theme=tokyonight)]()-->
 
