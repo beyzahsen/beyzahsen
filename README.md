@@ -29,4 +29,4 @@
 
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzahsen&langs_count=9&theme=tokyonight)]()-->
 
-<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzahsen)-->
+[Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzahsen)
