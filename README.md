@@ -27,5 +27,5 @@
 <!--<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>-->
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzahsen&langs_count=9&theme=tokyonight)]()
+<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzahsen&langs_count=9&theme=tokyonight)]()-->
 
